@@ -1,0 +1,344 @@
+{
+  "polls": [
+    {
+      "id": "1",
+      "question": "What is your favorite programming language?",
+      "options": [
+        {
+          "name": "JavaScript",
+          "votes": 0
+        },
+        {
+          "name": "Python",
+          "votes": 0
+        },
+        {
+          "name": "C++",
+          "votes": 0
+        },
+        {
+          "name": "Rust",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "question": "Which frontend framework do you prefer?",
+      "options": [
+        {
+          "name": "Vue.js",
+          "votes": 0
+        },
+        {
+          "name": "React",
+          "votes": 0
+        },
+        {
+          "name": "Angular",
+          "votes": 0
+        },
+        {
+          "name": "Svelte",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "question": "What is the best operating system?",
+      "options": [
+        {
+          "name": "Windows",
+          "votes": 0
+        },
+        {
+          "name": "Linux",
+          "votes": 0
+        },
+        {
+          "name": "macOS",
+          "votes": 0
+        },
+        {
+          "name": "BSD",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "question": "Which cloud platform do you use the most?",
+      "options": [
+        {
+          "name": "AWS",
+          "votes": 0
+        },
+        {
+          "name": "Google Cloud",
+          "votes": 0
+        },
+        {
+          "name": "Azure",
+          "votes": 0
+        },
+        {
+          "name": "DigitalOcean",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "7b49",
+      "question": "Would you rather live retarted or die?",
+      "options": [
+        {
+          "name": "dfrg",
+          "votes": 0
+        },
+        {
+          "name": "efrf",
+          "votes": 0
+        },
+        {
+          "name": "ojkn",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "ff13",
+      "question": "Would you rather live retarted or die?",
+      "options": [
+        {
+          "name": "gthefrg",
+          "votes": 0
+        },
+        {
+          "name": "dfergt",
+          "votes": 0
+        },
+        {
+          "name": "efrgt",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "bb31",
+      "question": "Would you rather live retarted or die?",
+      "options": [
+        {
+          "name": "defdfrgdfdfg",
+          "votes": 0
+        },
+        {
+          "name": "efrgefrg",
+          "votes": 0
+        },
+        {
+          "name": "rfgb",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "fb46",
+      "question": "Would you rather live retarted or die?",
+      "options": [
+        {
+          "name": "nkjhcg",
+          "votes": 0
+        },
+        {
+          "name": "khg",
+          "votes": 0
+        },
+        {
+          "name": "mlkuy",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "e430",
+      "question": "Would you rather live retarted or die?",
+      "options": [
+        {
+          "name": "die",
+          "votes": 0
+        },
+        {
+          "name": "live retarted",
+          "votes": 0
+        },
+        {
+          "name": "none",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "7749",
+      "question": "Would you rather live retarted or die?",
+      "options": [
+        {
+          "name": "die",
+          "votes": 0
+        },
+        {
+          "name": "live retarted",
+          "votes": 0
+        },
+        {
+          "name": "none",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "4fc2",
+      "question": "Would you rather live retarted or die?",
+      "options": [
+        {
+          "name": "die",
+          "votes": 0
+        },
+        {
+          "name": "live retarted",
+          "votes": 0
+        },
+        {
+          "name": "none",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "07e0",
+      "question": "Would you rather live retarted or die?",
+      "options": [
+        {
+          "name": "die",
+          "votes": 0
+        },
+        {
+          "name": "live retarted",
+          "votes": 0
+        },
+        {
+          "name": "none",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "845f",
+      "question": "Would you rather live retarted or die?",
+      "options": [
+        {
+          "name": "die",
+          "votes": 8
+        },
+        {
+          "name": "live retarted",
+          "votes": 3
+        },
+        {
+          "name": "none",
+          "votes": 2
+        }
+      ]
+    },
+    {
+      "id": "e59c",
+      "question": "Would you rather live retarted or die?",
+      "options": [
+        {
+          "name": "die",
+          "votes": 0
+        },
+        {
+          "name": "live retarted",
+          "votes": 0
+        },
+        {
+          "name": "none",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "52b0",
+      "question": "Would you rather lie retarted or die?",
+      "options": [
+        {
+          "name": "die",
+          "votes": 3
+        },
+        {
+          "name": "live retarted",
+          "votes": 2
+        },
+        {
+          "name": "none",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "4b5d",
+      "question": "kvcnbm",
+      "options": [
+        {
+          "name": "1",
+          "votes": 3
+        },
+        {
+          "name": "2",
+          "votes": 1
+        },
+        {
+          "name": "3",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "3860",
+      "question": "jhigf",
+      "options": [
+        {
+          "name": "1",
+          "votes": 2
+        },
+        {
+          "name": "2",
+          "votes": 1
+        },
+        {
+          "name": "3",
+          "votes": 2
+        }
+      ]
+    },
+    {
+      "id": "682d",
+      "question": "erftg",
+      "options": [
+        {
+          "name": "5",
+          "votes": 2
+        },
+        {
+          "name": "65",
+          "votes": 2
+        },
+        {
+          "name": "63",
+          "votes": 1
+        }
+      ]
+    }
+  ]
+}
