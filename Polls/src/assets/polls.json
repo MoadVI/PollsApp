@@ -89,254 +89,134 @@
       ]
     },
     {
-      "id": "7b49",
-      "question": "Would you rather live retarted or die?",
+      "id": "5",
+      "question": "What is your favorite backend framework?",
       "options": [
         {
-          "name": "dfrg",
+          "name": "Node.js",
           "votes": 0
         },
         {
-          "name": "efrf",
+          "name": "Django",
           "votes": 0
         },
         {
-          "name": "ojkn",
+          "name": "Flask",
+          "votes": 0
+        },
+        {
+          "name": "Spring Boot",
           "votes": 0
         }
       ]
     },
     {
-      "id": "ff13",
-      "question": "Would you rather live retarted or die?",
+      "id": "6",
+      "question": "Which database technology do you prefer?",
       "options": [
         {
-          "name": "gthefrg",
+          "name": "MySQL",
           "votes": 0
         },
         {
-          "name": "dfergt",
+          "name": "PostgreSQL",
           "votes": 0
         },
         {
-          "name": "efrgt",
+          "name": "MongoDB",
+          "votes": 0
+        },
+        {
+          "name": "SQLite",
           "votes": 0
         }
       ]
     },
     {
-      "id": "bb31",
-      "question": "Would you rather live retarted or die?",
+      "id": "7",
+      "question": "Which mobile OS do you use?",
       "options": [
         {
-          "name": "defdfrgdfdfg",
+          "name": "Android",
           "votes": 0
         },
         {
-          "name": "efrgefrg",
+          "name": "iOS",
           "votes": 0
         },
         {
-          "name": "rfgb",
+          "name": "Windows Phone (RIP)",
+          "votes": 0
+        },
+        {
+          "name": "Other",
           "votes": 0
         }
       ]
     },
     {
-      "id": "fb46",
-      "question": "Would you rather live retarted or die?",
+      "id": "8",
+      "question": "What type of developer are you?",
       "options": [
         {
-          "name": "nkjhcg",
+          "name": "Frontend Developer",
           "votes": 0
         },
         {
-          "name": "khg",
+          "name": "Backend Developer",
           "votes": 0
         },
         {
-          "name": "mlkuy",
+          "name": "Full Stack Developer",
+          "votes": 0
+        },
+        {
+          "name": "DevOps",
           "votes": 0
         }
       ]
     },
     {
-      "id": "e430",
-      "question": "Would you rather live retarted or die?",
+      "id": "9",
+      "question": "Which text editor/IDE do you prefer?",
       "options": [
         {
-          "name": "die",
+          "name": "VS Code",
           "votes": 0
         },
         {
-          "name": "live retarted",
+          "name": "JetBrains IntelliJ/WebStorm",
           "votes": 0
         },
         {
-          "name": "none",
+          "name": "Vim/Neovim",
+          "votes": 0
+        },
+        {
+          "name": "Eclipse",
           "votes": 0
         }
       ]
     },
     {
-      "id": "7749",
-      "question": "Would you rather live retarted or die?",
+      "id": "10",
+      "question": "What is the best Linux distribution?",
       "options": [
         {
-          "name": "die",
+          "name": "Ubuntu",
           "votes": 0
         },
         {
-          "name": "live retarted",
+          "name": "Arch Linux",
           "votes": 0
         },
         {
-          "name": "none",
-          "votes": 0
-        }
-      ]
-    },
-    {
-      "id": "4fc2",
-      "question": "Would you rather live retarted or die?",
-      "options": [
-        {
-          "name": "die",
+          "name": "Fedora",
           "votes": 0
         },
         {
-          "name": "live retarted",
+          "name": "Debian",
           "votes": 0
-        },
-        {
-          "name": "none",
-          "votes": 0
-        }
-      ]
-    },
-    {
-      "id": "07e0",
-      "question": "Would you rather live retarted or die?",
-      "options": [
-        {
-          "name": "die",
-          "votes": 0
-        },
-        {
-          "name": "live retarted",
-          "votes": 0
-        },
-        {
-          "name": "none",
-          "votes": 0
-        }
-      ]
-    },
-    {
-      "id": "845f",
-      "question": "Would you rather live retarted or die?",
-      "options": [
-        {
-          "name": "die",
-          "votes": 8
-        },
-        {
-          "name": "live retarted",
-          "votes": 3
-        },
-        {
-          "name": "none",
-          "votes": 2
-        }
-      ]
-    },
-    {
-      "id": "e59c",
-      "question": "Would you rather live retarted or die?",
-      "options": [
-        {
-          "name": "die",
-          "votes": 0
-        },
-        {
-          "name": "live retarted",
-          "votes": 0
-        },
-        {
-          "name": "none",
-          "votes": 0
-        }
-      ]
-    },
-    {
-      "id": "52b0",
-      "question": "Would you rather lie retarted or die?",
-      "options": [
-        {
-          "name": "die",
-          "votes": 3
-        },
-        {
-          "name": "live retarted",
-          "votes": 2
-        },
-        {
-          "name": "none",
-          "votes": 0
-        }
-      ]
-    },
-    {
-      "id": "4b5d",
-      "question": "kvcnbm",
-      "options": [
-        {
-          "name": "1",
-          "votes": 3
-        },
-        {
-          "name": "2",
-          "votes": 1
-        },
-        {
-          "name": "3",
-          "votes": 0
-        }
-      ]
-    },
-    {
-      "id": "3860",
-      "question": "jhigf",
-      "options": [
-        {
-          "name": "1",
-          "votes": 2
-        },
-        {
-          "name": "2",
-          "votes": 1
-        },
-        {
-          "name": "3",
-          "votes": 2
-        }
-      ]
-    },
-    {
-      "id": "682d",
-      "question": "erftg",
-      "options": [
-        {
-          "name": "5",
-          "votes": 2
-        },
-        {
-          "name": "65",
-          "votes": 2
-        },
-        {
-          "name": "63",
-          "votes": 1
         }
       ]
     }

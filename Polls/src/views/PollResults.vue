@@ -43,6 +43,7 @@ export default {
                 totalVotes += pollOptions.value[i].votes;
             }
             
+            
             return totalVotes > 0 ? ((votes/totalVotes) * 100).toFixed(2) : 0;
         }
 
