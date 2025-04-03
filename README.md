@@ -1,5 +1,5 @@
 # PollsApp
-## To directly access the website click on the following link : [Polls.com](https://moadvi.github.io/PollsApp/#/)
+## To directly access the website click on the following link : [Polls.com](https://moadvi.github.io/)
 
 ### To run locally
 ### First run the json server with this
